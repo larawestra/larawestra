@@ -1,0 +1,28 @@
+body {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;margin: 0px; font-size: 1.5vw;}
+#logo {margin: 0px; padding:8px; font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; width: 20%;}
+
+
+Body>header {background-color: orange;display: flex; height: 12vh;align-items: center;
+color: white;justify-content: space-around;}
+
+body>footer{background-color: orange; display: flex; }
+
+body>main article{width: 60%;
+    margin:auto;}
+
+.navbutton{color: white;padding:20px;text-decoration: white;border:
+    1px solid white ; border-radius: 20%;}
+body>header>nav>ul {margin: 10px; padding: 0;display: flex;grid-template-rows: center;list-style: none;}
+body>header>nav>ul>li{padding: 20px;}
+
+form{text-align: center;}
+
+#main-content>h2{text-align: center;}
+#main-content>h4{text-align: center;}
+#main-content{display: flex; justify-content: space-around;}
+#main-content>div{width: 70%;}
+#main-content>nav>ul {list-style-type: disc;}
+
+
+footer>nav>ul{display: flex; list-style: none;}
+img{border-radius: 100%;}
